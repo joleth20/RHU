@@ -1,0 +1,101 @@
+[01-Dec-2023 05:19:27 UTC] PHP Warning:  include(config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:19:27 UTC] PHP Warning:  include(): Failed opening 'config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:19:27 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:19:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:19:34 UTC] PHP Warning:  include(config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:19:34 UTC] PHP Warning:  include(): Failed opening 'config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:19:34 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:19:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:21:42 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:21:42 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:21:42 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:21:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:21:45 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:21:45 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:21:45 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:21:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:24:52 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:24:52 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:24:52 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:24:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:25:37 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:25:37 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:25:37 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:25:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:27:12 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:27:12 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:27:12 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:27:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:28:57 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:28:57 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:28:57 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:28:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:31:12 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:31:12 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:31:12 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:31:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:44:15 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:44:15 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:44:15 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:44:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:45:48 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:45:48 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 3
+[01-Dec-2023 05:45:48 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[01-Dec-2023 05:45:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php:5
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/controller/validate_email.php on line 5
+[04-Dec-2023 17:56:39 UTC] PHP Warning:  file_put_contents(uploads/image_656e12d7dd93e.jpg): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 19
+[04-Dec-2023 17:59:56 UTC] PHP Warning:  file_put_contents(assets/images/profpic/image_656e139c475e4.jpg): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 19
+[04-Dec-2023 17:59:59 UTC] PHP Warning:  file_put_contents(assets/images/profpic/image_656e139f6aff4.jpg): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 19
+[04-Dec-2023 18:00:00 UTC] PHP Warning:  file_put_contents(assets/images/profpic/image_656e13a01182c.jpg): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 19
+[04-Dec-2023 18:00:00 UTC] PHP Warning:  file_put_contents(assets/images/profpic/image_656e13a0bba17.jpg): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 19
+[04-Dec-2023 18:00:01 UTC] PHP Warning:  file_put_contents(assets/images/profpic/image_656e13a137191.jpg): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 19
+[04-Dec-2023 18:01:05 UTC] PHP Warning:  file_put_contents(assets/images/profpic/image_656e13e1936b5.jpg): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 19
+[04-Dec-2023 18:15:05 UTC] PHP Warning:  file_put_contents(upload/1701713705.png): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 29
+[04-Dec-2023 18:15:05 UTC] PHP Warning:  file_put_contents(upload/1701713705.png): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 29
+[04-Dec-2023 18:16:21 UTC] PHP Warning:  file_put_contents(pages/view/pp/1701713781.png): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/controller/uploadpp_process.php on line 29
+[14-Dec-2023 10:48:56 UTC] PHP Warning:  Undefined array key "p" in /home/lrtekrie/public_html/RHU/pages/view/controller/index.php on line 3
+[14-Dec-2023 10:48:56 UTC] PHP Warning:  Undefined array key "p" in /home/lrtekrie/public_html/RHU/pages/view/controller/index.php on line 7
+[14-Dec-2023 10:48:56 UTC] PHP Warning:  Undefined array key "p" in /home/lrtekrie/public_html/RHU/pages/view/controller/index.php on line 11

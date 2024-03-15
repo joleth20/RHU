@@ -1,0 +1,73 @@
+[12-Dec-2023 10:52:27 Asia/Manila] PHP Warning:  Undefined array key "dashboard" in /home/lrtekrie/public_html/RHU/pages/view/index.php on line 4
+[12-Dec-2023 10:52:27 Asia/Manila] PHP Warning:  Undefined array key "user_id" in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 49
+[12-Dec-2023 10:52:27 Asia/Manila] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[12-Dec-2023 10:52:27 Asia/Manila] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[12-Dec-2023 10:52:27 Asia/Manila] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[12-Dec-2023 10:52:27 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php:52
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php(52): mysqli_query()
+#1 /home/lrtekrie/public_html/RHU/pages/view/index.php(46): include('/home/lrtekrie/...')
+#2 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 2
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 2
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 3
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 3
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 4
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 4
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 4
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 4
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 4
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 4
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 62
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 62
+[12-Dec-2023 02:53:05 UTC] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 106
+[12-Dec-2023 02:53:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php:106
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/account_mgmt.php on line 106
+[14-Dec-2023 14:04:46 Asia/Manila] PHP Warning:  Undefined array key "dashboard" in /home/lrtekrie/public_html/RHU/pages/view/index.php on line 4
+[14-Dec-2023 14:04:46 Asia/Manila] PHP Warning:  Undefined array key "user_id" in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 49
+[14-Dec-2023 14:04:46 Asia/Manila] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[14-Dec-2023 14:04:46 Asia/Manila] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[14-Dec-2023 14:04:46 Asia/Manila] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[14-Dec-2023 14:04:46 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php:52
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php(52): mysqli_query()
+#1 /home/lrtekrie/public_html/RHU/pages/view/index.php(46): include('/home/lrtekrie/...')
+#2 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[14-Dec-2023 14:07:59 Asia/Manila] PHP Warning:  Undefined array key "dashboard" in /home/lrtekrie/public_html/RHU/pages/view/index.php on line 4
+[14-Dec-2023 14:07:59 Asia/Manila] PHP Warning:  Undefined array key "user_id" in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 49
+[14-Dec-2023 14:07:59 Asia/Manila] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[14-Dec-2023 14:07:59 Asia/Manila] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[14-Dec-2023 14:07:59 Asia/Manila] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[14-Dec-2023 14:07:59 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php:52
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php(52): mysqli_query()
+#1 /home/lrtekrie/public_html/RHU/pages/view/index.php(46): include('/home/lrtekrie/...')
+#2 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[14-Dec-2023 14:08:09 Asia/Manila] PHP Warning:  Undefined array key "dashboard" in /home/lrtekrie/public_html/RHU/pages/view/index.php on line 4
+[14-Dec-2023 14:08:09 Asia/Manila] PHP Warning:  Undefined array key "user_id" in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 49
+[14-Dec-2023 14:08:09 Asia/Manila] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[14-Dec-2023 14:08:09 Asia/Manila] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[14-Dec-2023 14:08:09 Asia/Manila] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[14-Dec-2023 14:08:09 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php:52
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php(52): mysqli_query()
+#1 /home/lrtekrie/public_html/RHU/pages/view/index.php(46): include('/home/lrtekrie/...')
+#2 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[14-Dec-2023 18:48:49 Asia/Manila] PHP Warning:  Undefined array key "dashboard" in /home/lrtekrie/public_html/RHU/pages/view/index.php on line 4
+[14-Dec-2023 18:48:49 Asia/Manila] PHP Warning:  Undefined array key "user_id" in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 49
+[14-Dec-2023 18:48:49 Asia/Manila] PHP Warning:  include(pages/view/config/dbconfig.php): Failed to open stream: No such file or directory in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[14-Dec-2023 18:48:49 Asia/Manila] PHP Warning:  include(): Failed opening 'pages/view/config/dbconfig.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 50
+[14-Dec-2023 18:48:49 Asia/Manila] PHP Warning:  Undefined variable $conn in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
+[14-Dec-2023 18:48:49 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php:52
+Stack trace:
+#0 /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php(52): mysqli_query()
+#1 /home/lrtekrie/public_html/RHU/pages/view/index.php(46): include('/home/lrtekrie/...')
+#2 {main}
+  thrown in /home/lrtekrie/public_html/RHU/pages/view/nav_hor.php on line 52
